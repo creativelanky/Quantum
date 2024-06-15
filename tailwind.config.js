@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         inter: ["Inter", "sans-serif"],
+        body: ["Figtree", "sans-serif"],
       },
       colors: {
         primary: "#FF5B79",

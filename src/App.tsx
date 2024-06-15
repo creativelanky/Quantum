@@ -26,7 +26,7 @@ export default function App() {
   return (
     <>
       <Navbar />
-      <main className='w-screen overflow-hidden font-inter text-white'>
+      <main className='w-screen overflow-hidden font-body text-white'>
         <Banner />
         <SupportedCoin />
         <GiftCard />

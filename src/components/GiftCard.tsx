@@ -6,6 +6,7 @@ import Gift from './../assets/gift-card.png';
 
 export default function GiftCard() {
     const Cards = [card1, card2, card3, card4]
+
     return (
         <section className='text-black md:py-32 md:px-16 lg:px-24 py-24 grid md:grid-cols-2 items-center gap-10'>
             <div className="h-full w-full order-2 md:order-1">

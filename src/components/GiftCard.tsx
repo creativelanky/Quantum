@@ -11,7 +11,7 @@ export default function GiftCard() {
             <div className="h-full w-full order-2 md:order-1">
                 <img data-aos="fade-up"
                     data-aos-delay="100"
-                    src={Gift} alt='image' className='xl:h-[550px] md:h-[350px] h-[450px] w-auto mx-auto md:mx-0' />
+                    src={Gift} alt='image' className='xl:h-[550px] md:h-[350px] h-[400px] w-auto mx-auto md:mx-0' />
             </div>
             <div className="px-7 md:px-0 order-1 md:order-2">
                 <div className="grid md:gap-8 gap-5 h-fit">

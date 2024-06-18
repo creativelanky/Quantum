@@ -4,8 +4,8 @@ import CustomerCare from './../assets/customer-care.png';
 export default function Whatsapp() {
     return (
         <FloatingWhatsApp
-            phoneNumber={'2348109013969'}
-            accountName={'Itseghosime'}
+            phoneNumber={'2347049688012'}
+            accountName={'Quantumswap Helpline'}
             chatboxStyle={{
                 color: '#000'
             }}

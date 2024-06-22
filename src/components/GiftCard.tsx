@@ -33,7 +33,7 @@ export default function GiftCard() {
                     <p
                         data-aos="fade-up"
                         data-aos-delay="300"
-                        className='text-tertiary xl:text-3xl md:text-2xl text-xl max-w-lg'>More than creating a seamless platform for you to perform crypto transactions, we are with you every step of the way, providing you with tips and tricks to becoming a crypto guru.
+                        className='text-tertiary xl:text-3xl md:text-2xl text-xl max-w-lg'>Our platform allows you to trade multiple valid gift cards seamlessly. Simply submit valid gift cards to us and you would be credited in 5 mins
                     </p>
                 </div>
             </div>

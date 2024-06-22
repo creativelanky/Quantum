@@ -11,7 +11,7 @@ import Coin0 from './../assets/coins/USD Coin_3D.png';
 import Supported from './../assets/supported-card.png';
 
 export default function SupportedCoin() {
-    const Coins = [Coin1, Coin2, Coin3, Coin4, Coin5, Coin6, Coin7, Coin8, Coin9, Coin0]
+    const Coins = [Coin3, Coin6, Coin1, Coin2, Coin9, Coin0, Coin4, Coin5, Coin7, Coin8,]
     return (
         <section className='text-black md:pt-32 md:px-16 lg:px-24 pt-24 grid md:grid-cols-2 items-center gap-10'>
             <div className="px-7 md:px-0">

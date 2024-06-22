@@ -23,9 +23,9 @@ export default function Banner() {
                         data-aos="fade-up"
                         data-aos-delay="100"
                         className="md:max-w-2xl mx-auto xl:text-2xl lg:text-lg md:text-base text-sm font-medium">
-                        Seamlessly convert your cryptocurrency
+                        Seamlessly convert your cryptocurrency{' '}
                         <br className='md:hidden block' />
-                        to fiat with
+                        to fiat with{' '}
                         <br className='hidden md:block' />
                         lightning-fast speed.
                     </p>

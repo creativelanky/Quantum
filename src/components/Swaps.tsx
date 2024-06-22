@@ -23,8 +23,8 @@ export default function Swaps() {
                         })
                     }
                 </div>
-                <div className="relative min-h-[500px] h-full">
-                    <img src={Swap} alt="Image" className='object-cover object-left-top h-full w-full absolute' />
+                <div className="relative min-h-[500px] bg-[#4F0714] h-full">
+                    <img src={Swap} alt="Image" className='object-contain object-center h-full w-full absolute' />
                 </div>
             </div>
         </section>

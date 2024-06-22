@@ -22,7 +22,7 @@ export default function Navbar() {
 
     return (
         <header className={scrolled ? 'inset-x-0 fixed top-0 bg-[#250004] z-50 translate-y-0 transition-all ease-linear duration-500' : 'inset-x-0 absolute s top-10 z-50'}>
-            <div className={`fixed inset-0 h-screen w-screen ${open ? 'bg-black/50' : 'bg-transparent'} transition-colors ease-in-out duration-500 z-30`} />
+            <div className={`fixed inset-0 h-screen w-screen ${open ? 'translate-y-0 bg-black/50' : 'bg-transparent -translate-y-[150vh]'} transition-colors ease-in-out duration-500 z-30`} />
             <nav className="flex items-center justify-between lg:px24 md:px-16 px-8 bg-transparent">
                 <div className={`relative z-50 flex items-center justify-between w-full md:w-auto ${scrolled && 'bg-[#250004]'}`}>
                     <div>

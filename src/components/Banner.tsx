@@ -11,9 +11,9 @@ export default function Banner() {
                         data-aos="fade-up"
 
                         className="xl:text-7xl lg:text-5xl md:text-4xl text-2xl font-semibold xl:leading-tight lg:leading-tight md:leading-tight">
-                        Trade your crypto and valid{' '}
+                        Trade your cryptocurrency and{' '}
                         <br className='hidden md:block' />
-                        giftcards for{' '}
+                        valid giftcards to{' '}
                         <span className="bg-clip-text bg-gradient-to-br from-primary to-secondary from-0% to-100% fill-none text-white/0">
                             Naira{' '}
                         </span>
@@ -23,18 +23,17 @@ export default function Banner() {
                         data-aos="fade-up"
                         data-aos-delay="100"
                         className="md:max-w-2xl mx-auto xl:text-2xl lg:text-lg md:text-base text-sm font-medium">
-                        Seamlessly convert your  cryptocurrency
+                        Seamlessly convert your cryptocurrency
                         <br className='md:hidden block' />
-                        holdings into
+                        to fiat with
                         <br className='hidden md:block' />
-                        Nigerian Naira with
-                        <br className='md:hidden block' />
                         lightning-fast speed.
                     </p>
                     <a
                         data-aos="fade-up"
                         data-aos-delay="200"
-                        href="" className='inline-block mx-auto'>
+                        target='_blank' href="https://api.whatsapp.com/send/?phone=2347049688012"
+                        className='inline-block mx-auto'>
                         <div className="flex items-center xl:gap-5 gap-3 px-6 xl:py-5 bg-secondary rounded-xl lg:py-4 py-3.5 hover:bg-primary">
                             <span className="font-medium xl:text-xl md:text-lg text-base">
                                 Start trading

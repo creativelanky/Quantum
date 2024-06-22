@@ -7,7 +7,7 @@ export default function HowToSell(props: { bgColor: any; heading: string | numbe
             <h2
                 data-aos="fade-up"
                 data-aos-delay="100"
-                className='max-w-4xl lg:text-5xl text-2xl md:text-4xl font-medium text-center mx-auto'>{props.heading}</h2>
+                className='max-w-4xl lg:text-5xl text-2xl md:text-4xl font-bold text-center mx-auto'>{props.heading}</h2>
             <div className="grid md:grid-cols-3 items-start gap-12 mt-20">
                 {
                     props.section.map((item, idx) => {

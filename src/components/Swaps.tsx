@@ -5,7 +5,7 @@ export default function Swaps() {
         <section className='text-black py-16 md:py-20'>
             <div className="px-7 md:px-16 lg:px-24">
                 <h2 data-aos="fade-up"
-                    data-aos-delay='100' className='max-w-4xl lg:text-5xl text-2xl md:text-4xl font-medium text-center mx-auto'>Why choose Quantum swaps?</h2>
+                    data-aos-delay='100' className='max-w-4xl lg:text-5xl text-2xl md:text-4xl font-bold text-center mx-auto'>Why choose Quantum swaps?</h2>
             </div>
             <div className="grid lg:grid-cols-2 mt-16 md:mt-20">
                 <div className="bg-[#FFF6F8] px-7 md:px-16 lg:px-24 py-10 md:py-16 lg:py-20 flex flex-col gap-6">

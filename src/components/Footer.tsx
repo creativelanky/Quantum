@@ -10,8 +10,8 @@ export default function Footer() {
                     <img src={Logo} alt="Logo" className='h-14 w-auto' />
                 </div>
                 <div className="flex items-center justify-center gap-x-5">
-                    <a href=""> <img src={Tiktok} className='h-5 w-5' alt="icon" /></a>
-                    <a href=""> <img src={Instagram} className='h-5 w-5' alt="icon" /></a>
+                    <a href="https://www.tiktok.com/@quantumswaps"> <img src={Tiktok} className='h-5 w-5' alt="icon" /></a>
+                    <a href="https://www.instagram.com/quantumswaps?igsh=MTBpNXhxMWo3bXNhYQ=="> <img src={Instagram} className='h-5 w-5' alt="icon" /></a>
                 </div>
                 <div className="text-white">
                     <p className='text-sm'>Copyright © 2024 Quantum Swap</p>

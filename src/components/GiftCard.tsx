@@ -19,7 +19,7 @@ export default function GiftCard() {
                     <h2
                         data-aos="fade-up"
                         data-aos-delay="100"
-                        className='xl:text-4xl md:text-[28px] text-2xl font-bold'>Multiple Valid Giftcards <br /> Supported</h2>
+                        className='xl:text-4xl md:text-[28px] text-2xl font-medium'>Multiple Valid Giftcards <br /> Supported</h2>
                     <div className="flex items-center gap-3">
                         {
                             Cards.map((_, idx) => {
@@ -33,7 +33,7 @@ export default function GiftCard() {
                     <p
                         data-aos="fade-up"
                         data-aos-delay="300"
-                        className='text-tertiary font-bold xl:text-3xl md:text-2xl text-xl max-w-lg'>More than creating a seamless platform for you to perform crypto transactions, we are with you every step of the way, providing you with tips and tricks to becoming a crypto guru.
+                        className='text-tertiary xl:text-3xl md:text-2xl text-xl max-w-lg'>More than creating a seamless platform for you to perform crypto transactions, we are with you every step of the way, providing you with tips and tricks to becoming a crypto guru.
                     </p>
                 </div>
             </div>

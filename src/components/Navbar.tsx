@@ -36,7 +36,7 @@ export default function Navbar() {
                         </div>
                     </button>
                 </div>
-                <div className={`fixed md:relative md:bg-transparent md:h-fit h-60 w-screen inset-x-0 px-8 pb-10 md:pb-0 md:px-0 z-40 top-0 bg-[#4F0714] md:block flex items-end justify-center md:translate-y-0 md:w-auto ${open ? 'translate-y-0' : '-translate-y-[50vh]'} transition-transform ease-linear duration-500`}>
+                <div className={`fixed md:relative md:bg-transparent md:h-fit h-60 w-screen inset-x-0 px-8 pb-10 md:pb-0 md:px-0 z-40 top-0 bg-[#250004] md:block flex items-end justify-center md:translate-y-0 md:w-auto ${open ? 'translate-y-0' : '-translate-y-[50vh]'} transition-transform ease-linear duration-500`}>
                     <a
                         target='_blank' href="https://api.whatsapp.com/send/?phone=2347049688012">
                         <div className="flex items-center justify-center xl:gap-5 gap-3 px-6 xl:py-5 bg-white/10 border border-white/20 rounded-xl lg:py-4 py-3.5 hover:bg-[#250004]">
